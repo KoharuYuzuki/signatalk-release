@@ -16,7 +16,7 @@ IssueにSignaTalkの問題を報告していただいても構いません。
 準備中
 
 立ち絵はこちら↓  
-https://github.com/KoharuYuzuki/signatalk-release/tree/main/%E7%AB%8B%E3%81%A1%E7%B5%B5
+[https://github.com/KoharuYuzuki/signatalk-release/tree/main/立ち絵](https://github.com/KoharuYuzuki/signatalk-release/tree/main/%E7%AB%8B%E3%81%A1%E7%B5%B5)
 
 ## ユーザー辞書について
 ユーザー辞書はuser-dict.jsonに以下の形式で保存してください。  
