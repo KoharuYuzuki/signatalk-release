@@ -1,6 +1,6 @@
 # SignaTalk
 
-<img src="screenshot.png" style="width: 100%; height: 600px; object-fit: contain;">
+<img src="screenshot.png" style="width: 100%;">
 
 SignaTalkは無料で使える低品質なテキスト読み上げソフトです。  
 このリポジトリではSignaTalkや立ち絵の配布を行います。  
