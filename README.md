@@ -7,8 +7,8 @@ SignaTalkは無料で使える低品質なテキスト読み上げソフトで�
 IssueにSignaTalkの問題を報告していただいても構いません。  
 
 ## SignaTalkの使い方
-~~こちらの解説動画をご覧ください。~~  
-準備中
+こちらの解説動画をご覧ください。  
+https://www.nicovideo.jp/watch/sm45313069
 
 ## ダウンロード
 
